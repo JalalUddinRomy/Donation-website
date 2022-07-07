@@ -8,7 +8,7 @@ body {
 
 #front-text {
     font-size: 55px;
-    color: rgb(134, 212, 10);
+    color: rgb(241, 238, 3);
 }
 
 p {
@@ -34,9 +34,12 @@ p {
 
 .donation-button {
     text-decoration: none;
-    background-color: darkturquoise;
+    background-color: rgb(212, 244, 245);
     padding: 13px 17px;
     border-radius: 5px;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 150px;
 }
 
 .text-decoration {
@@ -77,6 +80,7 @@ h2 {
     border-bottom: 2px solid rgb(250, 191, 191);
     font-size: 22px;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .box-model {
