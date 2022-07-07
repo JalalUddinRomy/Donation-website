@@ -1,0 +1,186 @@
+body {
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+#front-text {
+    font-size: 55px;
+    color: rgb(134, 212, 10);
+}
+
+p {
+    color: rgb(25, 0, 94);
+    padding-bottom: 50px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.section1 {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    height: 450px;
+    width: auto;
+    margin: 0%;
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 120px;
+
+
+}
+
+.donation-button {
+    text-decoration: none;
+    background-color: darkturquoise;
+    padding: 13px 17px;
+    border-radius: 5px;
+}
+
+.text-decoration {
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.display h4 {
+    font-size: 25px;
+    font-weight: 500;
+    background-color: gray;
+    padding: 40px 25px;
+    margin: 7px;
+    border-radius: 5px;
+}
+
+#selected {
+    font-weight: 800;
+    color: rgb(223, 10, 127);
+    border: 2px solid rgb(224, 37, 140);
+    background-color: rgb(240, 170, 209)
+}
+
+#input-amount {
+    border: none;
+    width: 70%;
+    border-bottom: 2px solid rgb(250, 191, 191);
+    font-size: 22px;
+    text-align: center;
+}
+
+.box-model {
+    height: 250px;
+    width: 200px;
+
+    padding: 30px 20px;
+    text-align: justify;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#box1 {
+    background-color: rgb(65, 117, 117);
+}
+
+#box2 {
+    background-color: darkseagreen;
+}
+
+#box3 {
+    background-color: rgb(167, 133, 138);
+}
+
+#form-input {
+    display: flex;
+}
+
+form {
+    padding-bottom: 100px;
+}
+
+form div div {
+    margin: 10px;
+    background-color: rgb(66, 102, 90);
+    width: 80%;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+
+
+}
+
+.input-section {
+    border: 2px solid gold;
+    height: 50px;
+    width: 360px;
+    background-color: white;
+}
+
+#email {
+    font-weight: 600;
+    margin-right: 0;
+    background-color: rgb(236, 222, 222);
+    height: 55px;
+    width: 200px;
+    border: 0ch;
+    padding-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+
+}
+
+button {
+    margin-left: 0%;
+    background-color: crimson;
+    height: 57px;
+    width: 100px;
+    border: 0ch;
+    position: absolute;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: 700;
+
+}
+
+#input-button {
+    height: 20px;
+    width: 300px;
+    margin: 40px auto;
+    background-color: blanchedalmond;
+    justify-content: center;
+    padding: 100px 350px;
+}
+
+#footer-text {
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Splash', cursive;
+    font-weight: 800;
+    color: brown;
+}
+
+footer {
+    background-color: black;
+    height: 150px;
+    padding-top: 30px;
+}
